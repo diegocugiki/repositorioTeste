@@ -1,0 +1,23 @@
+Para novos repositórios
+    Ir no GitHub criar um repositório
+    Ir na maquina
+        Criar uma pasta
+        Abrir o bash do git
+        comando: git clone "url copiada do repositório no git"
+        Adicionar as pastas necessarias dentro do repositório na maquina
+        git status
+        git add . ou git add --all
+        git status
+        git commit -m "Mensagem do Commit"
+        git status
+        git push -> git push origin master
+
+Para repositório existente
+    comando: git clone "url copiada do repositório no git"
+    efetuar as altorações necessárias
+    git status
+    git add . ou git add --all
+    git status
+    git commit -m "Mensagem do Commit das alterações"
+    git status
+    git push -> git push origin master
